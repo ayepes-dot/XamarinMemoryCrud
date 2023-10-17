@@ -1,0 +1,16 @@
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\bin\Debug\netstandard2.0\MVVMXamarin.deps.json
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\bin\Debug\netstandard2.0\MVVMXamarin.dll
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\bin\Debug\netstandard2.0\ref\MVVMXamarin.dll
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\bin\Debug\netstandard2.0\MVVMXamarin.pdb
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\MVVMXamarin.csproj.AssemblyReference.cache
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\MVVMXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\View\PersonaPage.xaml.g.cs
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\MVVMXamarin.AssemblyInfoInputs.cache
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\MVVMXamarin.AssemblyInfo.cs
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\MVVMXamarin.csproj.CoreCompileInputs.cache
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\MVVMXamarin.dll
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\refint\MVVMXamarin.dll
+C:\Users\ayepe\OneDrive\Escritorio\MVVMXamarin\MVVMXamarin\obj\Debug\netstandard2.0\MVVMXamarin.pdb
